@@ -14,7 +14,7 @@ How can I produce the results?
 
 3 The dataset was divided in the proportion 80: 10 :10 with respect to training, validation and testing
 
-4 The network is evaluated with respect to the accuracy and loss in the different subdivisions of the dataset.
+4 The network is evaluated with respect to the accuracy and loss in the different subdivisions of the dataset
 
 5 You can try changing the parameters in the configuration.py file to get other performance
 
@@ -24,7 +24,7 @@ How can I produce the results?
 
 How do I install it?
 
-1 This project was implemented on macOS by enabling the use of the M1 GPU chip and using the tensorflow library. Search the net how to enable it.
+1 This project was implemented on macOS by enabling the use of the M1 GPU chip and using the tensorflow library. Search the net how to enable it
 
 
 --------------------------------------------------------------------------------------------------
