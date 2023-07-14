@@ -4,4 +4,6 @@ Vision Transformer architecture design applied to PatchcameLyon dataset using Te
 
 ![Griglia_tumori](https://github.com/Reares94/VIT_Cancer/assets/93512390/bb2abef8-408c-40a0-a906-c77555ca300f)
 <img width="465" alt="patch_cancer" src="https://github.com/Reares94/VIT_Cancer/assets/93512390/5ed0fe8e-24c7-4dcb-8827-0d6dd34058c6">
-<img width="703" alt="datasplit" src="https://github.com/Reares94/VIT_Cancer/assets/93512390/5158e115-1b4c-468f-8077-8c673682572a">
+
+<img width="158" alt="datasplit_total" src="https://github.com/Reares94/VIT_Cancer/assets/93512390/0baea117-c390-4ebc-b2f6-a23491da2bf2">
+
