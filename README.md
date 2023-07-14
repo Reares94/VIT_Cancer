@@ -2,7 +2,7 @@
 Multiclass classification for histological cancer
 -----------------------------------------------------------------------------------------------
 
-This project implements the Vision Transformer architecture applied to PatchcameLyon using the Tensorflow library to solve the multiclass classification problem for histological cancer.The original PCam dataset contains duplicate images due to its probabilistic sampling, however, the version presented on Kaggle does not contain duplicates. We have otherwise maintained the same data and splits as the PCam benchmark.A positive label indicates that the center 32x32px region of a patch contains at least one pixel of tumor tissue otherwise not.
+This project implements the Vision Transformer architecture applied to PatchcameLyon using the Tensorflow library to solve the multiclass classification problem for histological cancer.The original PCam dataset contains duplicate images due to its probabilistic sampling, however, the version presented on Kaggle does not contain duplicates. We have otherwise maintained the same data and splits as the PCam benchmark.A positive label indicates that the center 32x32px region of a patch contains at least one pixel of tumor tissue otherwise not.The dataset was divided into 4 tumor subfolders to apply the multiclass classification.
 
 ------------------------------------------------------------------------------------------------
 
