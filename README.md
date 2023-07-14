@@ -8,7 +8,7 @@ This project implements the Vision Transformer architecture applied to Patchcame
 
 How can I produce the results? 
 
-1 You need to download the dataset from this link https://www.kaggle.com/competitions/histopathologic-cancer-detection/data
+1 You need to download the dataset from this link https://www.kaggle.com/competitions/histopathologic-cancer-detection/data. The dataset has been manipulated to achieve a multiclass problem.
 
 2 Download the code I wrote and try to understand how it was organized by helping you with the comments
 
@@ -17,6 +17,15 @@ How can I produce the results?
 4 The network is evaluated with respect to the accuracy and loss in the different subdivisions of the dataset.
 
 5 You can try changing the parameters in the configuration.py file to get other performance
+
+6.You can run the train.py file to train the network and also calculate the specifications related to the validation part. Only after the weights have been automatically saved in the model.h file the test.py file
+
+--------------------------------------------------------------------------------------------------
+
+How do I install it?
+
+1 This project was implemented on macOS by enabling the use of the M1 gpu chip and using the tensorflow library. Search the net how to enable it.
+
 
 --------------------------------------------------------------------------------------------------
 
