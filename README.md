@@ -28,7 +28,7 @@ How do I install it?
 
 
 --------------------------------------------------------------------------------------------------
-Architecture and implemented equations, tumor dataset, patch_embedding,
+Architecture and implemented equations, tumor dataset, patch_embedding
 
 <img width="772" alt="vision_transformer" src="https://github.com/Reares94/VIT_Cancer/assets/93512390/fcaf5cb5-fc83-4ba3-b765-6dc91a654c3f">
 <img width="1000" alt="Equations" src="https://github.com/Reares94/VIT_Cancer/assets/93512390/2d232279-d4b4-4207-ad16-d31160f22591">
