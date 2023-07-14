@@ -18,7 +18,7 @@ How can I produce the results?
 
 5 You can try changing the parameters in the configuration.py file to get other performance
 
-6.You can run the train.py file to train the network and also calculate the specifications related to the validation part. Only after the weights have been automatically saved in the model.h file the test.py file
+6.You can run the train.py file to train the network and also calculate the specifications related to the validation part. Only after the weights have been automatically saved in the model.h file you can run the test.py
 
 --------------------------------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ How do I install it?
 
 
 --------------------------------------------------------------------------------------------------
-
+Architecture and implemented equations, tumor dataset, patch_embedding,
 
 <img width="772" alt="vision_transformer" src="https://github.com/Reares94/VIT_Cancer/assets/93512390/fcaf5cb5-fc83-4ba3-b765-6dc91a654c3f">
 <img width="1000" alt="Equations" src="https://github.com/Reares94/VIT_Cancer/assets/93512390/2d232279-d4b4-4207-ad16-d31160f22591">
