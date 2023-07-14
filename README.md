@@ -44,12 +44,14 @@ References
 
 [1]https://arxiv.org/pdf/2010.11929.pdf
 
-[2]https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
+[2]https://www.youtube.com/watch?v=Ssndsjh1Zqk
 
-[3]https://arxiv.org/pdf/1803.08494.pdf
+[3]https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
 
-[4]https://arxiv.org/pdf/1606.08415.pdf
+[4]https://arxiv.org/pdf/1803.08494.pdf
 
-[5]https://arxiv.org/pdf/1412.6980.pdf
+[5]https://arxiv.org/pdf/1606.08415.pdf
 
-[6]https://www.youtube.com/watch?v=Ssndsjh1Zqk
+[6]https://arxiv.org/pdf/1412.6980.pdf
+
+
