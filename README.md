@@ -6,6 +6,21 @@ This project implements the Vision Transformer architecture applied to Patchcame
 
 ------------------------------------------------------------------------------------------------
 
+How can I produce the results? 
+
+1 You need to download the dataset from this link https://www.kaggle.com/competitions/histopathologic-cancer-detection/data
+
+2 Download the code I wrote and try to understand how it was organized by helping you with the comments
+
+3 The dataset was divided in the proportion 80: 10 :10 with respect to training, validation and testing
+
+4 The network is evaluated with respect to the accuracy and loss in the different subdivisions of the dataset.
+
+5 You can try changing the parameters in the configuration.py file to get other performance
+
+--------------------------------------------------------------------------------------------------
+
+
 <img width="772" alt="vision_transformer" src="https://github.com/Reares94/VIT_Cancer/assets/93512390/fcaf5cb5-fc83-4ba3-b765-6dc91a654c3f">
 
 ![Griglia_tumori](https://github.com/Reares94/VIT_Cancer/assets/93512390/bb2abef8-408c-40a0-a906-c77555ca300f)
